@@ -1,0 +1,1 @@
+This project involves developing a comprehensive dashboard for Atliq, a fictional hardware company, to analyze revenue and quantity sold by product, and revenue trends over time. The dashboard includes filters for year and month, key performance indicators for total revenue and quantity sold, and a visual breakdown of revenue by state, filtered by region.
